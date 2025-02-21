@@ -60,9 +60,6 @@ COVID 2030 is a text-based survival game developed in C++. The player navigates 
 - **Farzad Dehghan Manshdi**
 - **Ali Naghi Njad**
 
-## 📜 License
-This project is for educational purposes and follows an open-source license.
-
 ---
 Enjoy the game and survive the apocalypse! 🚀
 
