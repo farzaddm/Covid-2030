@@ -1,4 +1,4 @@
-# COVID 2030 - Survival Game
+# 🧟‍♂️ COVID 2030 - Survival Game
 
 ## 📌 Project Overview
 COVID 2030 is a text-based survival game developed in C++. The player navigates a world ravaged by a failed vaccine experiment, where humans have turned into zombies. The mission is to collect all vaccines and return them to Earth while avoiding or eliminating zombies using a shotgun.
